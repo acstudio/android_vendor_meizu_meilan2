@@ -352,9 +352,7 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/meilan2/proprietary/lib64/libui_ext.so:system/lib64/libui_ext.so \
     vendor/meizu/meilan2/proprietary/etc/perfservscntbl.txt:system/etc/perfservscntbl.txt \
     vendor/meizu/meilan2/proprietary/usr/keylayout/ACCDET.kl:system/usr/keylayout/ACCDET.kl \
-    vendor/meizu/meilan2/proprietary/usr/keylayout/AW9201_ts.kl:system/usr/keylayout/AW9201_ts.kl \
     vendor/meizu/meilan2/proprietary/usr/keylayout/mtk-kpd.kl:system/usr/keylayout/mtk-kpd.kl \
-    vendor/meizu/meilan2/proprietary/usr/keylayout/mtk-tpd.kl:system/usr/keylayout/mtk-tpd.kl \
     vendor/meizu/meilan2/proprietary/lib/libhwm.so:system/lib/libhwm.so \
     vendor/meizu/meilan2/proprietary/lib64/libhwm.so:system/lib64/libhwm.so \
     vendor/meizu/meilan2/proprietary/lib/libfile_op.so:system/lib/libfile_op.so \
