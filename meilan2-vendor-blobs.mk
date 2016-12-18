@@ -31,6 +31,7 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/meilan2/proprietary/lib64/libbluetoothem_mtk.so:system/lib64/libbluetoothem_mtk.so \
     vendor/meizu/meilan2/proprietary/lib/libbluetooth_mtk.so:system/lib/libbluetooth_mtk.so \
     vendor/meizu/meilan2/proprietary/lib/libbluetoothdrv.so:system/lib/libbluetoothdrv.so \
+    vendor/meizu/meilan2/proprietary/vendor/lib/hw/bluetooth.blueangel.so:system/vendor/lib/hw/bluetooth.blueangel.so \
     vendor/meizu/meilan2/proprietary/lib64/libbluetoothdrv.so:system/lib64/libbluetoothdrv.so \
     vendor/meizu/meilan2/proprietary/bin/mtkbt:system/bin/mtkbt \
     vendor/meizu/meilan2/proprietary/lib/libadpcm.so:system/lib/libadpcm.so \
